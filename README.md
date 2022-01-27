@@ -10,9 +10,9 @@ E-Commerce OnlineStore by native Php-OOP-Solid-composer-autoloading  <br />
 ## Admin-Dashbord
 create dashbord in my project   <br />
 handle the operation in my dashbord like crud operation delling with imag and file in DB and store in uploads file <br />
-## orders
+#### orders
 change the status orders and handling this status lik approve,cancle and pending order
-## Authentication
+#### Authentication
 *-create Super admin user and get permession to enable all process in project like add and delete and control project <br />
 *-create admin user get some permession but disabled controll project and disabled the operations <br />
 final refactoring the code 
