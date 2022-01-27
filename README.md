@@ -1,5 +1,5 @@
 # TechStore
-E-Commerce OnlineStore by native Php-OOP-Solid-composer-autoloading 
+E-Commerce OnlineStore by native Php-OOP-Solid-composer-autoloading  <br />
 1-Anlaysis Project and create database design Model  <br />
 2-create oop classes valdiations,request ,session <br />
 3- download vendor file and create composer autoload to control project and namespaces <br />
@@ -13,6 +13,6 @@ handle the operation in my dashbord like crud operation delling with imag and fi
 ## orders
 change the status orders and handling this status lik approve,cancle and pending order
 ## Authentication
--create Super admin user and get permession to enable all process in project like add and delete and control project <br />
--create admin user get some permession but disabled controll project and disabled the operations <br />
+*-create Super admin user and get permession to enable all process in project like add and delete and control project <br />
+*-create admin user get some permession but disabled controll project and disabled the operations <br />
 final refactoring the code 
