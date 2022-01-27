@@ -7,12 +7,12 @@ E-Commerce OnlineStore by native Php-OOP-Solid-composer-autoloading
 5-inhanecement The design and put theme in my project and handle url path theTheme design
 6- deeling withDb classes and show in design and create cart put orders in cart store in DB
 7-create search with name and show 
-#Admin-Dashbord
+# Admin-Dashbord
 create dashbord in my project 
 handle the operation in my dashbord like crud operation delling with imag and file in DB and store in uploads file
-#orders
+# orders
 change the status orders and handling this status lik approve,cancle and pending order
-#Authentication
+# Authentication
 -create Super admin user and get permession to enable all process in project like add and delete and control project
 -create admin user get some permession but disabled controll project and disabled the operations
 final refactoring the code 
