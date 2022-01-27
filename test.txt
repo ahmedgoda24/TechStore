@@ -1,0 +1,9 @@
+cats(id,name,created_at)
+
+products(id,name,desc,price,pieces_no,img,cate_id,created_at)
+
+orders(id,name,email,phone,adress,status,created_at)
+
+order-details(id,order_id,product_id,quan) 
+
+admins(id,name,email,password,is_super,created_at)
